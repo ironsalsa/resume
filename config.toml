@@ -1,0 +1,5 @@
+baseURL = "https://marcy.cloud/"
+languageCode = "en-us"
+title = "Marcy Nugent's Cloud CV"
+theme = "uilite"
+paginate = 10

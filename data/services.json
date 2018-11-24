@@ -1,0 +1,19 @@
+{
+    "title": "Services",
+    "services": [{
+            "icon": "cloudscale",
+            "title": "DevOps Transformations",
+            "description": "Until your code delivers itself to your customers, your business is missing out on the returns from your investment. I build delivery systems from point Code to point Profit."
+        },
+        {
+            "icon": "cloud",
+            "title": "Cloud Server Design and Hosting",
+            "description": "Accept nothing less than magic with your cloud deployments! When you need services, servers, and systems pulled up and kept up, call me."
+        },
+        {
+            "icon": "robot",
+            "title": "Automation",
+            "description": "Say goodbye to manual and hello to automatic - no task too big or annoyance too small to fix once and for all. I don't ever do the same work twice - neither should you."
+        }
+    ]
+}

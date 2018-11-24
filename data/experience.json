@@ -1,0 +1,19 @@
+{
+	"title": "Experience",
+	"experience": [{
+			"timeperiod": "2009-2012",
+			"company": "Nugent Computer Services",
+			"description": "Side hustle working with WordPress business sites."
+		},
+		{
+			"timeperiod": "2012-2017",
+			"company": "Long View Systems",
+			"description": "Cloud Engineering, with a few stops in Network Operations and support along the way."
+		},
+		{
+			"timeperiod": "2017-present",
+			"company": "RealEyes Media",
+			"description": "I manage the DevOps and System Administration for RealEyes, with a heavy focus on Continous Delivery and Internet of Things for our Enterprise clients."
+		}
+	]
+}

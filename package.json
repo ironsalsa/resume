@@ -1,0 +1,13 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "Marcy's Resume site",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "hugo-cli": "^0.8.0"
+  },
+  "scripts": {
+    "now-build": "hugo -d dist"
+  }
+}

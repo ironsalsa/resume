@@ -1,0 +1,14 @@
+{
+    "title": "Skills",
+    "skills": {
+        "CI/CD": 100,
+        "Docker": 100,
+        "Kubernetes": 80,
+        "Open Sourcery": 70,
+        "IoT": 60,
+        "Python": 60,
+        "Golang": 40,
+        "ExpressJS": 40,
+        "React": 30
+    }
+}
